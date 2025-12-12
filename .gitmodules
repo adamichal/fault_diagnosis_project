@@ -1,0 +1,3 @@
+[submodule "quixbugs"]
+	path = quixbugs
+	url = https://github.com/jkoppel/QuixBugs
